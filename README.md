@@ -11,7 +11,6 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 
 ## 🧱 Network Topology
 
-\!\[Network Topology\]([topology_diagram.png](https://github.com/madnan4/enterprise-network-simulation/blob/main/topology_diagram.png))
 
 \- \*\*Area 1 and Area 2\*\*: Each has 3 switches — 1 core switch and 2 access switches  
 \- Each PC is connected to access switches, grouped into:  
@@ -50,8 +49,8 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 
 ## 👨‍💻 Author
 
-Adnan Mohammed Ali    
-📫 \[LinkedIn\](https://www.linkedin.com/in/adnan-ali-0312b8251)
+Harshit Sharma  
+📫 \[LinkedIn\](https://www.linkedin.com/in/harshit-sharma-0575883a7)
 
 \---
 
